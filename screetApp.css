@@ -1,0 +1,16 @@
+/* CSS declarations go here */
+body {
+	background-color: black;
+}
+
+h1 {
+	color: white;
+	margin-left: 10%;
+	font: Arial;
+}
+
+h2 {
+	color: white;
+	margin-left: 9%;
+	font: Arial;
+}
