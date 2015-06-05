@@ -1,0 +1,34 @@
+<template name="layout_template">
+	<head>
+	  <title>Screet</title>
+	  <link href='http://fonts.googleapis.com/css?family=Rhodium+Libre' rel='stylesheet' type='text/css'>
+	</head>
+
+	<body>
+		
+		{{>topNav}}
+			{{>header}}
+			{{>yield}}
+		{{>footer}}
+	
+	</body>
+
+</template>
+
+	<template name="header">
+		<img class="logo" src="http://i.imgur.com/d9hTDZg.png"/>
+		<h3>Your sex is your business, your safety is ours.</h3>
+	</template>
+
+
+	<template name="footer">
+		<div id="startupbus_banner" data-company-id="55709130144feed32e482e22"></div>
+		<script src="http://game.startupbus.com/js/widget.js"></script>
+	</template>
+
+	<template name="topNav">
+	 <div class="navbar">
+		<button><a href="/about">About</a></button>
+		<button><a href="/contact">Contact</a></button>
+	 </div>
+	</template>

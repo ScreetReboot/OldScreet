@@ -1,16 +1,50 @@
 /* CSS declarations go here */
 body {
 	background-color: black;
+	font-family: 'Rhodium Libre', serif;
+}
+.body_content {
+	max-width: 960;
+	padding: 30;
 }
 
 h1 {
 	color: white;
-	margin-left: 10%;
-	font: Arial;
 }
 
-h2 {
+h3 {
 	color: white;
-	margin-left: 9%;
-	font: Arial;
+	margin-top: 150;
+	margin:0 auto;
+	display: block;
+	text-align: center;
+}
+
+.paragraph_content {
+	color: white;
+	margin-top: 10%;
+	margin-left: 25%;
+	display: block;
+	text-align: left;
+	max-width: 500;
+}
+
+.hero_modal {
+	margin-left: 20%;
+	background-color: white;
+	width: 60%;
+}
+
+.logo {
+	
+	margin-top:500;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50;
+	display: block;
+}
+
+.bottom_nav {
+	text-align: center;
+	margin:0 auto;
 }
