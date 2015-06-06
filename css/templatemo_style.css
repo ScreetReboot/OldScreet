@@ -10,7 +10,7 @@ http://www.templatemo.com/preview/templatemo_395_urbanic
 body, html { overflow-x:hidden; }
 
 body {
-    background-color: #ffffff;
+    background-color: #black;
     font-family:  'Open Sans', Arial, Helvetice Neue, sans-serif;
     font-size: 12px;
 	
@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 .templatemo-top-bar {
     min-height: 40px;
-    background-color:#eeeeee;
+    background-color:#afafaf;
 }
 
 .templatemo-top-menu {
@@ -164,7 +164,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 
 .btn-orange {
-    background-color: #ff7600;
+    background-color: #00AD8C;
     border-bottom:2px solid #d35400;
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
@@ -197,13 +197,13 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 .nav > li > a:hover,
 .nav > li > a:focus {
-    background-color: #ff7600;
+    background-color: #00AD8C;
     color:#fff;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    background-color: #ff7600;
+    background-color: #00AD8C;
     color:#fff;
 }
 
@@ -219,7 +219,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-    background-color: #ff7600;
+    background-color: #00AD8C;
     color:#fff;
 }
 
@@ -235,7 +235,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 }
 
 .templatemo-header-orange {
-    background-color:#ff7600;
+    background-color:#00AD8C;
     min-width: 298px;
     height: 67px;
     color: #fff; 
@@ -345,7 +345,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 .project-overlay {
     background : rgba(0,0,0,.75);
-    border : 2px solid #ff7600;
+    border : 2px solid #00AD8C;
     visibility: hidden;
     position: absolute;
     text-align:center;
@@ -529,7 +529,7 @@ a:hover .social-icon-dribbble {
 }
 
 ul.templatemo-project-gallery  li  a img:hover {
-    border: 3px solid #ff7600;
+    border: 3px solid #00AD8C;
 }
 
 .templatemo-gallery-category a {
