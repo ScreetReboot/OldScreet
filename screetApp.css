@@ -37,10 +37,10 @@ h3 {
 
 .logo {
 	
-	margin-top:500;
+	margin-top:400;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 50;
+	margin-bottom: 150;
 	display: block;
 }
 
@@ -49,6 +49,7 @@ h3 {
 	font-size: 16;
 	display: inline;
 	margin-left: 5%;
+	list-style-type: none;
 	text-decoration: none;
 }
 
