@@ -165,16 +165,15 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 .btn-orange {
     background-color: #00AD8C;
-    border-bottom:2px solid #d35400;
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     border-radius: 0;
-    color:#ffffff;
+    color:#00AD8C;
 }
 
 .btn-orange:hover, .btn-orange:focus, .btn-orange:active, .btn-orange.active, .open .dropdown-toggle.btn-orange {
-    background-color: #d35400;
-    color:#ffffff;
+    background-color: #00AD8C;
+    color:#00AD8C;
 }
 
 .btn-green {
@@ -373,7 +372,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 }
 
 .txt_orange {
-    color: #e67e22;
+    color: #00AD8C;
 }
 
 .txt_slogan {
@@ -423,14 +422,14 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 }
 
-.head_contact {
-    padding-bottom:80px; 
-    margin-bottom:0;
+.why_drive {
+    font-size: 14px;
+    font-weight: thin;
+    font-color: white;
+    margin: 0 auto;
+    max-width: 50%; 
 }
 
-.contact_right img {
-	margin-right:5px;
-}
 
 .contact_right form {
 	padding-left:15px;
