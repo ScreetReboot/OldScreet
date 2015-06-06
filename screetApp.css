@@ -26,7 +26,7 @@ h3 {
 	margin-left: 25%;
 	display: block;
 	text-align: left;
-	max-width: 500;
+	max-width: 50%;
 }
 
 .hero_modal {
@@ -44,12 +44,17 @@ h3 {
 	display: block;
 }
 
-.topNav {
+.navbar {
 	color: #ff00cc;	
 	font-size: 16;
 	display: inline;
 	margin-left: 5%;
 	list-style-type: none;
+	text-decoration: none;
+
+}
+
+#navId {
 	text-decoration: none;
 }
 
