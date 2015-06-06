@@ -10,7 +10,7 @@ http://www.templatemo.com/preview/templatemo_395_urbanic
 body, html { overflow-x:hidden; }
 
 body {
-    background-color: #black;
+    background-color: #3A3A3A;
     font-family:  'Open Sans', Arial, Helvetice Neue, sans-serif;
     font-size: 12px;
 	
@@ -118,6 +118,27 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     }
 }
 
+.carousel-caption{
+    font-color: #3A3A3A;
+}
+
+.carousel-button {
+    width: 300px;
+    height: 65px;
+    background-color: #00AD8C;
+    /*padding-top: 15px;*/
+    margin: 30px auto 0 auto;
+
+}
+
+a .carousel-button {
+    font-color: white;
+    font-size: 16px;
+    font-align: center;
+    text-decoration: none;
+    padding: 15px 25px;
+}
+
 /* ------ End of Carousel ----- */
 
 /* ------ Welcome & Slogna ------ */
@@ -211,7 +232,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     color: #929292;
 }
 .navbar-default {
-    background-color:#fff;
+    background-color:#3A3A3A;
     border:none;
 }
 
@@ -367,8 +388,12 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     margin:15px;
 }
 
+.txt_white {
+    color: #ffffff;
+}
+
 .txt_darkgrey {
-    color: #333333;
+    color: #3A3A3A;
 }
 
 .txt_orange {
@@ -413,7 +438,6 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 #templatemo-contact {
 	margin-top:100px; 
-	border-top: 1px solid #cccccc; 
 	font-size:14px;
 }
 .templatemo-contact-map {
