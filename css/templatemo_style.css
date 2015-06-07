@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 .templatemo-top-menu {
     min-height:110px;
-    background-color:#black;
+    background-color:#3a3a3a;
     z-index: 5000;
     width:100%;
 }
@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 @media (max-width: 1024px) {
     #templatemo-carousel {
-        background: url('../images/templatemo_carousel_bg_s.jpg') no-repeat center center; 
+        background: url('../img/header_BG.jpg') no-repeat center center; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -131,17 +131,41 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 }
 
+.button_text {
+    font-size: 130%;
+    font-weight: bold;
+    color: white;
+}
+
 a .carousel-button {
-    font-color: white;
-    font-size: 16px;
-    font-align: center;
-    text-decoration: none;
-    padding: 15px 25px;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  padding: 20px 25px;
 }
 
 /* ------ End of Carousel ----- */
 
 /* ------ Welcome & Slogna ------ */
+.product_name{
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    text-transform: lowercase;
+}
+
+.product_buckets{
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+img .product_buckets{
+    text-align: center;
+    margin: 0 auto;
+}
+
 .templatemo-welcome {
     border-bottom: 1px solid #cccccc;
     min-height: 230px;
