@@ -151,8 +151,8 @@ a .carousel-button {
 .product_name{
     color: white;
     text-align: center;
-    margin-top: 5px;
-    text-transform: lowercase;
+    margin-top: 15px;
+    /*text-transform: lowercase;*/
 }
 
 .product_buckets{
@@ -307,7 +307,8 @@ img .product_buckets{
 }
 
 .templatemo-team {
-    background: url('../images/background.png') ; 
+    /*background: url('../images/background.png') ; */
+    background-color: #00AD8C;
     font-family:  'Open Sans', sans-serif;
     min-height:590px;
     color:#ffffff;
@@ -356,7 +357,8 @@ img .product_buckets{
 .team-inner-header {
     font-family: 'Open Sans', sans-serif;
     font-weight:600;
-    font-size:16px;
+    font-size:18px;
+    color: #3A3A3A;
 }
 
 .team-inner-subtext {
