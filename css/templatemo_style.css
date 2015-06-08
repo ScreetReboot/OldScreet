@@ -359,6 +359,7 @@ img .product_buckets{
     font-weight:600;
     font-size:18px;
     color: #3A3A3A;
+    margin-bottom: 0;
 }
 
 .team-inner-subtext {
@@ -368,7 +369,7 @@ img .product_buckets{
 
 .row_team {
     margin-left:-50px;
-    margin-top:70px;
+    margin-top:10px;
 }
 
 .row_team li {
@@ -466,6 +467,7 @@ img .product_buckets{
 #templatemo-contact {
 	margin-top:100px; 
 	font-size:14px;
+    background-color: #00AD8C;
 }
 .templatemo-contact-map {
     margin-bottom: 15px;
@@ -474,13 +476,16 @@ img .product_buckets{
 }
 
 .why_drive {
-    font-size: 14px;
+    font-size: 18px;
     font-weight: thin;
     font-color: white;
     margin: 0 auto;
-    max-width: 50%; 
+    max-width: 45%; 
 }
 
+.row_drive{
+
+}
 
 .contact_right form {
 	padding-left:15px;
@@ -509,6 +514,7 @@ img .product_buckets{
 .templatemo-footer {
 	border-top: 2px solid #cccccc; 
 	margin-top: 100px;
+    background-color: #00AD8C;
 }
 
 .footer_container {
@@ -618,7 +624,7 @@ ul.templatemo-project-gallery  li  a img:hover {
 }
 
 .templatemo-tweets {
-    background-color: #8996a0;
+    background-color: #3A3A3A;
     min-height:200px;
     font-family:  'Open Sans', sans-serif;
     font-size:20px;
